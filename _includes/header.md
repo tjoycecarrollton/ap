@@ -1,4 +1,4 @@
-# [CS50 AP]({{ "/" | relative_url }})
+# [Game Design]({{ "/" | relative_url }})
 
 Harvard University\\
 2019–2020
